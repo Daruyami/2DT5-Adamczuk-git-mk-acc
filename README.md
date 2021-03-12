@@ -1,2 +1,1 @@
-# 2DT5-Adamczuk-git-mk-acc
-zadanie szkolne
+2DT5 Adamczuk Patryk git-mk-acc
